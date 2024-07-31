@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+A simple 3D solar system made in HTML,CSS,JS and Three.JS 
